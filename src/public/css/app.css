@@ -1,0 +1,34 @@
+body{
+    background-color: #DDDDDD;
+}
+
+#job_ad {
+    border:0 none;
+    overflow-y:hidden;
+    width: 0px;
+    height: 0px;
+    display: none;
+}
+
+#baseInput{
+    color: #FF9900;
+}
+
+#targetInput{
+    color: #FF9900;
+}
+
+#wrapper {
+    max-width: 730px;
+    width: 730px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+#main-area{
+    padding: 12px 0 0px ;
+}
+
+#main{
+    padding: 0px;
+}
